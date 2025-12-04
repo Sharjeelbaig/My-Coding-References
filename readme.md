@@ -1,0 +1,2 @@
+# My Coding References
+This repository contains a collection of snippets, documentation, and resources that I frequently refer to while coding. It serves as a personal knowledge base to help streamline my development process. I kept this repository public in case others find it useful as well :)
